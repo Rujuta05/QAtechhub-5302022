@@ -6,7 +6,7 @@ public class testdata {
 		// TODO Auto-generated method stub
  System.out.println("New update");
  int a=90;
- 
+ System.out.print("updated from git hub");
 		System.out.print("Checking git hub...");
 	}
 
